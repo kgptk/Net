@@ -44,8 +44,16 @@ namespace Client
                 byte[] data = Encoding.UTF8.GetBytes(json);
                 
                 
-                udpClient.Send(data, data.Length, iPEndPoint);
-                Console.WriteLine("Сообщение отправлено на сервер!");
+                int count = udpClient.Send(data, data.Length, iPEndPoint);
+                if (count == data.Length) 
+                { 
+                    Console.WriteLine($"На сервер отправлено {count} байт!"); 
+                }
+                else
+                {
+                    Console.WriteLine("Что-то пошло не так!");
+                }
+               
           
 
             }
