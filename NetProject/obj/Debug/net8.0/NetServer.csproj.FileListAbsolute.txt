@@ -1,0 +1,14 @@
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\bin\Debug\net8.0\NetServer.exe
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\bin\Debug\net8.0\NetServer.deps.json
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\bin\Debug\net8.0\NetServer.runtimeconfig.json
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\bin\Debug\net8.0\NetServer.dll
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\bin\Debug\net8.0\NetServer.pdb
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.AssemblyInfoInputs.cache
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.AssemblyInfo.cs
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.csproj.CoreCompileInputs.cache
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.dll
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\refint\NetServer.dll
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.pdb
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\NetServer.genruntimeconfig.cache
+C:\Users\Home\YandexDisk-dev2828\05 GB\Курс 24. C#\Тема 11 Разработка сетевого приложения\Тема 1. Работа с сетью\ProjectSeminar\NetProject\NetProject\obj\Debug\net8.0\ref\NetServer.dll
