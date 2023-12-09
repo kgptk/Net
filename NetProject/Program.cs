@@ -38,12 +38,19 @@ namespace NetServer
             {
                 byte[] buffer = udpClient.Receive(ref  iPEndPoint);
 
-                if (buffer == null) break;
 
-                var massageText = Encoding.UTF8.GetString(buffer);
-                Message message = Message.DeserializeFromJson(massageText);
-                message.Print();
-                Console.WriteLine( "Cообщение принял!");
+                if (buffer != null)
+                {
+
+                    var massageText = Encoding.UTF8.GetString(buffer);
+                    Message message = Message.DeserializeFromJson(massageText);
+                    message.Print();
+                }
+                else
+                {
+                    Console.WriteLine("Сообщение не получено!");
+                }
+                
 
             }
         }
